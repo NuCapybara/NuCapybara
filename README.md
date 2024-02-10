@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NuCapybara
+- 👋 Hi, I’m @NuCapybara, or you can call me by Stella/Jialu
 - 👀 I’m interested in robotics manipulation, service robot and slam!
 - 🌱 I’m currently learning ROS2 & SLAM.
 - 💞️ I’m looking to collaborate on projects on human-assistive robots!
