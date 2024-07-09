@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NuCapybara, or you can call me by Stella/Jialu
 - 👀 I’m interested in robotics manipulation, service robot and slam!
-- 🌱 I’m currently learning ROS2 & SLAM.
+- 🌱 I’m currently working on exoskeleton&human simulation with Mujoco to help research team save experiment time.
 - 💞️ I’m looking to collaborate on projects on human-assistive robots!
 - 📫 How to reach me: jialuyu2024@u.northwestern.edu
 - 😄 Pronouns: She/her/hers
