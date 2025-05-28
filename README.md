@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NuCapybara, or you can call me by Stella/Jialu
-- 👀 I’m interested in robotics manipulation, service robot and slam!
-- 🌱 I’m currently working on exoskeleton&human simulation with Mujoco to help research team save experiment time.
+- 👀 I’m interested in medical/assistive robots!
+- 🌱 I’m currently working at Telos Health, building the next generation of surgical robots to treat ischemic stroke.
 - 💞️ I’m looking to collaborate on projects on human-assistive robots!
-- 📫 How to reach me: jialuyu2024@u.northwestern.edu
+- 📫 How to reach me: jialuyu2024@u.northwestern.edu or jialuyu@umich.edu
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I have two cats but allergic to cats
 
